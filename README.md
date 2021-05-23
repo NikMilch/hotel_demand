@@ -28,6 +28,8 @@ The data analysis is based on the hotel real data and it can be used from hotel 
 - Effect on cancellation
 
 -- HOTEL REVIEWS--
-
-
--- 
+- nltk, Basemap, skimage
+- Analaysing positive and negative reviews
+- Correlation
+- Plot hotels location on the map
+- Impages processing 
