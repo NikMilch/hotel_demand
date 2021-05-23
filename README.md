@@ -12,21 +12,21 @@ The data analysis is based on the hotel real data and it can be used from hotel 
 Content
 -- HOTEL BOOKING DEMAND AND CANCELLATIONS --
 
-Pandas, Numpy, Matplotlyb
-Cleaning data
-EDA - Bar charts, Line Plots, Box Plot, Pie chart
-Number of Resort and Citiy Hotels
-Guests by country
-Different trends during different months
-Average price
-Marketing segments
-Cancelation Correlation - Scatter plots
-Deposit type and cancelation
-Effect on cancellation
--- HOTEL REVIEWS--
+- Pandas, Numpy, Matplotlyb
+- Cleaning data
+- EDA - Bar charts, Line Plots, Box Plot, Pie chart
+- Number of Resort and Citiy Hotels
+- Guests by country
+- Different trends during different months
+- Average price
+- Marketing segments
+- Cancelation Correlation - Scatter plots
+- Deposit type and cancelation
+- Effect on cancellation
 
-nltk, Basemap, skimage
-Analaysing positive and negative reviews
-Correlation
-Plot hotels location on the map
-Impages processing
+-- HOTEL REVIEWS--
+- nltk, Basemap, skimage
+- Analaysing positive and negative reviews
+- Correlation
+- Plot hotels location on the map
+- Impages processing
