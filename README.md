@@ -23,9 +23,11 @@ The data analysis is based on the hotel real data and it can be used from hotel 
 - Different trends during different months
 - Average price
 - Marketing segments
-- Cancelation Correlation 
+- Cancelation Correlation - Scatter plots
 - Deposit type and cancelation 
 - Effect on cancellation
+
+-- HOTEL REVIEWS--
 
 
 -- 
