@@ -15,6 +15,7 @@ The data analysis is based on the hotel real data and it can be used from hotel 
 ## Content
 
 -- HOTEL BOOKING DEMAND AND CANCELLATIONS --
+- Pandas, Numpy, Matplotlyb 
 - Cleaning data 
 - EDA - Bar charts, Line Plots, Box Plot, Pie chart 
 - Number of Resort and Citiy Hotels 
@@ -23,4 +24,8 @@ The data analysis is based on the hotel real data and it can be used from hotel 
 - Average price
 - Marketing segments
 - Cancelation Correlation 
-o 
+- Deposit type and cancelation 
+- Effect on cancellation
+
+
+-- 
