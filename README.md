@@ -14,4 +14,5 @@ The data analysis is based on the hotel real data and it can be used from hotel 
 
 ## Content
 
-- fs
+- HOTEL BOOKING DEMAND AND CANCELLATIONS
+
