@@ -14,5 +14,5 @@ The data analysis is based on the hotel real data and it can be used from hotel 
 
 ## Content
 
--- HOTEL BOOKING DEMAND AND CANCELLATIONS
+-- HOTEL BOOKING DEMAND AND CANCELLATIONS --
 
