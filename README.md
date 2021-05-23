@@ -17,4 +17,9 @@ The data analysis is based on the hotel real data and it can be used from hotel 
 -- HOTEL BOOKING DEMAND AND CANCELLATIONS --
 - Cleaning data 
 - EDA - Bar charts, Line Plots, Box Plot, Pie chart 
-- Correlation - Scatter plot
+- Number of Resort and Citiy Hotels 
+- Guests by country
+- Different trends during different months
+- Average price
+- Marketing segments
+- Cancelation Correlation 
